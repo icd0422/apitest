@@ -1,11 +1,7 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "hello"
+        "userName": "수지",
+        "gun": "권총",
+        "point": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
